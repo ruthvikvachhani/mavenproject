@@ -1,0 +1,6 @@
+2021-08-12 10:01:41,394 TRACE a.LoggingDemo [main] this is logger trace
+2021-08-12 10:01:41,397 DEBUG a.LoggingDemo [main] this is logger debug
+2021-08-12 10:01:41,397 INFO a.LoggingDemo [main] this is logger info
+2021-08-12 10:01:41,397 WARN a.LoggingDemo [main] this is logger warn
+2021-08-12 10:01:41,397 ERROR a.LoggingDemo [main] this is logger error
+2021-08-12 10:01:41,398 FATAL a.LoggingDemo [main] this is logger fatal
